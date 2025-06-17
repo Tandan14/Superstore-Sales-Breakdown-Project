@@ -50,7 +50,9 @@ Seasonal sales trends suggest peak demand during Q4, indicating holiday-driven p
 
 ## 📸 Dashboard Review
 
+![Image](https://github.com/user-attachments/assets/e4ada9e7-05d0-49d9-ac17-0560165d9106)
 
+![Image](https://github.com/user-attachments/assets/7cc1e40b-72ea-4a3f-a60b-a0161f42dc0b)
 
 **Acknowledgements**
 
