@@ -48,11 +48,9 @@ Corporate customers accounted for a significant portion of high-value orders.
 
 Seasonal sales trends suggest peak demand during Q4, indicating holiday-driven purchases.
 
-**Dashboard Preview**
+## 📸 Dashboard Review
 
-![Image](https://github.com/user-attachments/assets/2c06301f-ed04-4c76-9ad7-e36fdcb2ec4b)
 
-![Image](https://github.com/user-attachments/assets/dd00f40c-cdd0-45a8-ac6b-ac2b73e44d28)
 
 **Acknowledgements**
 
