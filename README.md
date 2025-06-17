@@ -52,6 +52,8 @@ Seasonal sales trends suggest peak demand during Q4, indicating holiday-driven p
 
 ![Image](https://github.com/user-attachments/assets/2c06301f-ed04-4c76-9ad7-e36fdcb2ec4b)
 
+![Image](https://github.com/user-attachments/assets/dd00f40c-cdd0-45a8-ac6b-ac2b73e44d28)
+
 **Acknowledgements**
 
 This project is based on the popular Superstore dataset, widely used in business analytics learning. The dashboard was developed as a portfolio project to showcase skills in business intelligence and data storytelling.
